@@ -1,0 +1,12 @@
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs (if any)
+*.log
+
+# Environment files (if you ever add them)
+.env
