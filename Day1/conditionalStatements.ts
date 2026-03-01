@@ -1,9 +1,11 @@
-// #3
+// #4
 
 // Control Statements =>
-    //1. Conditional Statements
-    //2. Looping Statements
-    //3. Jumping Statements
+    //1. Conditional Statements or Decision Making Statements
+    //2. Looping Statements or Iteration or Repititive Statements
+    //3. Jumping Statements or Transfer Statements or Loop Control Statements
+
+// Conditional Statements =>
 
 let person_Age:number = 10;
 if(person_Age >= 18) {
@@ -68,7 +70,8 @@ switch(weekDay) {
 console.log("***********************************")
 
 let x:number = 20, y:number = 5
-switch(x - y) {
+// Switch statement can also work with or include expressions
+switch(x - y)  /*Expression*/ {    
     case 0 : console.log("zero"); break;
     case 5 : console.log("five"); break;
     case 10 : console.log("ten"); break;

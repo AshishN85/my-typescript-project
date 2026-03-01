@@ -1,3 +1,5 @@
+// #3
+
 let x:number = 10, y:number = 20;
 
 //Arithmetic Operators => +, -, *, **, /, %, ++, --
@@ -67,7 +69,8 @@ let r:number = 100, s:string = "100"
 
 console.log("=================================================================")
 
-// Ternary Operator
+// Ternary or Conditional Operator
+// Replacement for 'if-else' statement
 // (exp) ? res1 : res2
 console.log(p < q ? p : q)      // it will print 'q' value as condition is 'False'
 console.log(p > q ? p : q)      // it will print 'p' value as condition is 'True'

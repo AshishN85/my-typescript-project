@@ -4,16 +4,16 @@
 // To check for the errors =>    tsc datatypes.ts
 
 // Statically typed programming language
-let data: number = 10;
+let data :number = 10;
 // data = "Ashish";
 console.log(data)
 
-// Type/Datatype
+// Type or Datatype
 // Annotations
 // Type Inference
 
 let xyz:number = 30
-// Type/Datatype ===> number
+// Type or Datatype ===> number
 // Annotations ===> :number
 
 let mnp:boolean = true
